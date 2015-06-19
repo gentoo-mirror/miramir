@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name>miramir</name>
+    <description lang="en">Miramir repos, experimental overlay for Gentoo</description>
+    <homepage>https://github.com/miramir/miramir-layman.git</homepage>
+    <owner type="person">
+      <email>gmiramir@gmail.com</email>
+      <name>miramir</name>
+    </owner>
+    <source type="git">https://github.com/miramir/miramir-layman.git</source>
+    <feed>https://github.com/miramir/miramir-layman/commits/master.atom</feed>
+  </repo>
+</repositories>
