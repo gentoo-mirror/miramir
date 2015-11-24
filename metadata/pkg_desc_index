@@ -1,13 +1,13 @@
-app-editors/sublime-text 3083 3095: Sublime Text is a sophisticated text editor for code, html and prose
-dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
+app-editors/sublime-text 3083 3095: 
+dev-java/jdbc-mysql 5.1.26-r1: 
 dev-util/phpstorm 141.2462 142.5282 143.129 143.279 143.381 143.434 143.790: PhpStorm
 dev-util/rubymine 7.1: RubyMine
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
-media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
+media-plugins/gimp-wavelet-denoise 0.3.1: 
 media-sound/deadbeef 0.6.2: foobar2k-like music player
-net-im/viber 9999: Free calls, text and picture sharing with anyone, anywhere!
-x11-misc/compton 0.1_beta2 9999: A compositor for X, and a fork of xcompmgr-dana
+net-im/viber 9999: 
+x11-misc/compton 0.1_beta2 9999: 
 x11-misc/gsimplecal 2.1: A lightweight calendar designed for tint2
-x11-misc/gxkb 0.7.3 0.7.5: X11 keyboard indicator and switcher
+x11-misc/gxkb 0.7.3 0.7.5: 
 x11-misc/obshutdown 9999: GTK/Cairo based shutdown box styled for Openbox and others windows managers
-x11-misc/tint2 9999: A lightweight panel/taskbar
+x11-misc/tint2 9999: 
