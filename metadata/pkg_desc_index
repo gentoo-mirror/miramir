@@ -1,6 +1,6 @@
 app-editors/sublime-text 3114: Sublime Text is a sophisticated text editor for code, html and prose
 dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
-dev-util/phpstorm 2016.1.1 2016.2.0_rc1 2016.2.0_rc2 2016.2.0_rc3: PhpStorm
+dev-util/phpstorm 2016.1.1 2016.2.0_rc1 2016.2.0_rc2 2016.2.0_rc3 2016.2.0_rc4 2016.2.1_rc1: PhpStorm
 dev-util/rubymine 7.1: RubyMine
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
