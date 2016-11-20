@@ -3,11 +3,12 @@ app-misc/rememberthemilk 1.1.0: The smart to-do app for busy people.
 dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
 dev-php/pecl-zmq 1.1.2: PHP extension for 0MQ messaging system
 dev-util/datagrip 2016.2.2 2016.2.5: Your Swiss Army Knife for Databases and SQL from JetBrains
-dev-util/phpstorm 2016.2.1 2016.3_rc1 2016.3_rc2 2016.3_rc3 2016.3_rc4 2016.3_rc5 2016.3_rc6: PhpStorm
+dev-util/phpstorm 2016.2.1 2016.3_rc1 2016.3_rc2 2016.3_rc3 2016.3_rc4 2016.3_rc5 2016.3_rc6 2016.3_rc7 2016.3_rc8: PhpStorm
 dev-util/rubymine 7.1: RubyMine
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
 media-sound/deadbeef 0.7.2: foobar2k-like music player
+net-im/viber 9999: Free calls, text and picture sharing with anyone, anywhere!
 x11-misc/gsimplecal 2.1: A lightweight calendar designed for tint2
 x11-misc/gxkb 0.7.3 0.7.5 0.7.8: X11 keyboard indicator and switcher
 x11-misc/obshutdown 9999: GTK/Cairo based shutdown box styled for Openbox and others windows managers
