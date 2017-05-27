@@ -4,6 +4,8 @@
 
 dev-java/jdbc-mysql:c3p0 - Enable c3p0 support
 dev-java/jdbc-mysql:log4j - Enable log4 support
+x11-misc/compton:drm - Enable VSync with DRM_IOCTL_WAIT_VBLANK
+x11-misc/compton:opengl - Enable VSync with SGI_swap_control OpenGL extension
 x11-misc/tint2:battery - Enable battery status plugin
 x11-misc/tint2:examples - Install tint2rc examples
 x11-misc/tint2:tint2conf - Build/Install tint2conf as well
