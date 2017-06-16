@@ -11,5 +11,5 @@ REQUIRED_USE=|| ( python_targets_python3_4 python_targets_python3_5 python_targe
 SLOT=0
 SRC_URI=https://github.com/chjj/compton/archive/v0.1_beta2.tar.gz -> compton-0.1_beta2.tar.gz
 _eclass_exported_funcs=pkg_setup:- src_compile:- src_install:-
-_eclasses_=eutils	33ef77a15337022e05342d2c772a7a5a	multibuild	72647e255187a1fadc81097b3657e5c3	multilib	97f470f374f2e94ccab04a2fb21d811e	portability	2b88d3ecc35035a3b8ab628b49cafb0e	python-r1	e9350ec46bb5c9f3504b4fbe8b8d8987	python-utils-r1	c9de01becf9df3f8c10aeec3dc693f5d	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	user	e4b567c44272a719fabf53f0f885d3f7
+_eclasses_=eutils	33ef77a15337022e05342d2c772a7a5a	multibuild	72647e255187a1fadc81097b3657e5c3	multilib	97f470f374f2e94ccab04a2fb21d811e	portability	2b88d3ecc35035a3b8ab628b49cafb0e	python-r1	e9350ec46bb5c9f3504b4fbe8b8d8987	python-utils-r1	c9de01becf9df3f8c10aeec3dc693f5d	toolchain-funcs	772b26a6baefb4c8c5e0c1fc724508b7	user	e4b567c44272a719fabf53f0f885d3f7
 _md5_=7a7ea7c6e20822433dc0703011a57000
