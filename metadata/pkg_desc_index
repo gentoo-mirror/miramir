@@ -3,7 +3,7 @@ app-misc/rememberthemilk 1.1.0 1.1.8: The smart to-do app for busy people.
 dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
 dev-php/pecl-zmq 1.1.2: PHP extension for 0MQ messaging system
 dev-util/datagrip 2016.2.2 2016.2.5: Your Swiss Army Knife for Databases and SQL from JetBrains
-dev-util/phpstorm 2017.1.4 2017.2.2_rc34 2017.2.2_rc60 2017.2.2_rc396823 2017.2.2 2017.3.0_rc1 2017.3.0_rc3 2017.3.0_rc4: PhpStorm
+dev-util/phpstorm 2017.2.2 2017.3.0_rc4 2017.3.0_rc5: PhpStorm
 dev-util/rubymine 7.1: RubyMine
 media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
 media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
