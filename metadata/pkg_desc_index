@@ -1,17 +1,3 @@
-app-editors/sublime-text 3114 3123 3126 3132 3142: Sublime Text is a sophisticated text editor for code, html and prose
-app-editors/visual-studio-code 1.18.1: Multiplatform Visual Studio Code from Microsoft
-app-misc/rememberthemilk 1.1.0 1.1.8: The smart to-do app for busy people.
-dev-java/jdbc-mysql 5.1.26-r1: MySQL JDBC driver
-dev-php/pecl-zmq 1.1.2: PHP extension for 0MQ messaging system
-dev-util/datagrip 2016.2.2 2016.2.5 2017.3.0: Your Swiss Army Knife for Databases and SQL from JetBrains
-dev-util/phpstorm 2017.2.2 2017.3.0_rc4 2017.3.0_rc5 2017.3.0: PhpStorm
+dev-util/phpstorm 2017.3.0_rc4 2017.3.0_rc5: PhpStorm
 dev-util/rubymine 7.1: RubyMine
-media-plugins/gimp-wavelet-decompose 0.1.2: Wavelet decompose plug-in for GIMP.
-media-plugins/gimp-wavelet-denoise 0.3.1: Wavelet denoise plug-in for GIMP.
-net-im/viber 9999: Free calls, text and picture sharing with anyone, anywhere!
 x11-misc/compton 0.1_beta2: A compositor for X, and a fork of xcompmgr-dana
-x11-misc/gsimplecal 2.1: A lightweight calendar designed for tint2
-x11-misc/gxkb 0.7.3 0.7.5 0.7.8: X11 keyboard indicator and switcher
-x11-misc/obmenu-generator 0.66 0.83: A fast pipe/static menu generator for the Openbox Window Manager
-x11-misc/obshutdown 9999: GTK/Cairo based shutdown box styled for Openbox and others windows managers
-x11-misc/tint2 9999: A lightweight panel/taskbar
