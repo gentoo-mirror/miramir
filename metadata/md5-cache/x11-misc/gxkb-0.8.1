@@ -1,5 +1,5 @@
-DEFINED_PHASES=-
-DEPEND=virtual/pkgconfig dev-libs/glib:2 x11-libs/gtk+:2 x11-libs/libwnck:1 x11-libs/libxklavier
+DEFINED_PHASES=prepare
+DEPEND=virtual/pkgconfig dev-libs/glib:2 x11-libs/gtk+:2 x11-libs/libwnck:1 x11-libs/libxklavier >=app-portage/elt-patches-20170815 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.16.1:1.16 >=sys-devel/automake-1.15.1:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
 DESCRIPTION=X11 keyboard indicator and switcher
 EAPI=6
 HOMEPAGE=https://github.com/zen-tools/gxkb
@@ -8,4 +8,5 @@ LICENSE=GPL-2
 RDEPEND=dev-libs/glib:2 x11-libs/gtk+:2 x11-libs/libwnck:1 x11-libs/libxklavier
 SLOT=0
 SRC_URI=https://github.com/zen-tools/gxkb/archive/v0.8.1.tar.gz -> gxkb-0.8.1.tar.gz
-_md5_=e8aef153281a6dcc0e5028b1bfef862c
+_eclasses_=autotools	1bf086cdd7356f5c9a4acd9727bd2065	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
+_md5_=d3e87dbf748bfdf3f53aab2f458df969
