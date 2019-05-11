@@ -3,9 +3,9 @@ DEPEND=>=virtual/jre-1.6
 DESCRIPTION=PhpStorm
 EAPI=5
 HOMEPAGE=http://www.jetbrains.com/phpstorm/
-KEYWORDS=x86 amd64
+KEYWORDS=~x86 ~amd64
 RESTRICT=strip mirror
 SLOT=0
-SRC_URI=https://download.jetbrains.com/webide/PhpStorm-191.6014.13.tar.gz
+SRC_URI=https://download.jetbrains.com/webide/PhpStorm-191.7141.5.tar.gz
 _eclasses_=eutils	33ef77a15337022e05342d2c772a7a5a	multilib	1d91b03d42ab6308b5f4f6b598ed110e	portability	2b88d3ecc35035a3b8ab628b49cafb0e	toolchain-funcs	b45201c4e6c096b98e250336954e64b9	user	8bd74731cafdcdad8f7a63637302e073
-_md5_=8db1c1595575b707f4f7774e54e6cf1a
+_md5_=da79e9411a9694e85b72fe350cf08048
