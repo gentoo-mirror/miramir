@@ -1,4 +1,12 @@
-dev-util/datagrip 2019.2.0-r1 2019.2.0-r2: Your Swiss Army Knife for Databases and SQL from JetBrains
-dev-util/phpstorm 2019.1.2: PhpStorm
+app-editors/visual-studio-code 1.36.1: Multiplatform Visual Studio Code from Microsoft
+app-portage/elogv 0.7.8: Curses based utility to parse the contents of elogs created by Portage
+app-text/coolreader 3.2.9.1 3.2.21.1: CoolReader - reader of eBook files (fb2,epub,htm,rtf,txt)
+dev-util/datagrip 2018.3.1 2019.2.0-r1 2019.2.0-r2 2019.2.1: Your Swiss Army Knife for Databases and SQL from JetBrains
+dev-util/phpstorm 2019.1.2 2019.2.0_rc8 2019.2.0_rc9: PhpStorm
 media-libs/lensfun 0.3.2-r1: Library for rectifying and simulating photographic lens distortions
-x11-misc/compton 6.2: The maintainance fork of compton
+x11-misc/arandr 0.1.10-r1: Another XRandR GUI
+x11-misc/autorandr 1.8 1.8.1: Automatically select a display configuration based on connected devices
+x11-misc/compton 6.2 7.2: The maintainance fork of compton
+x11-misc/gsimplecal 2.1: A lightweight calendar designed for tint2
+x11-misc/gxkb 0.7.8 0.8.0 0.8.1: X11 keyboard indicator and switcher
+x11-misc/yd-tools 1.10.6-r2 1.11.0: Panel indicator (GUI) for YandexDisk CLI client
