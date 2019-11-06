@@ -7,5 +7,5 @@ KEYWORDS=x86 amd64
 RESTRICT=strip mirror
 SLOT=0
 SRC_URI=https://download.jetbrains.com/datagrip/datagrip-192.5281.18.tar.gz
-_eclasses_=eutils	33ef77a15337022e05342d2c772a7a5a	multilib	1d91b03d42ab6308b5f4f6b598ed110e	portability	2b88d3ecc35035a3b8ab628b49cafb0e	toolchain-funcs	2f8b8f320bee13b71a8a54cc6d09e08a	user	00484e1be1aac73e24fca1c99557a7d6
+_eclasses_=eutils	33ef77a15337022e05342d2c772a7a5a	multilib	1d91b03d42ab6308b5f4f6b598ed110e	portability	2b88d3ecc35035a3b8ab628b49cafb0e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	user	00484e1be1aac73e24fca1c99557a7d6
 _md5_=9a917d92a0c1dd21d0a25f08db39b7a2
