@@ -1,11 +1,11 @@
 DEFINED_PHASES=install postinst
 DEPEND=>=virtual/jre-1.6
-DESCRIPTION=GoLand is a cross-platform IDE built specially for Go developers
+DESCRIPTION=PhpStorm
 EAPI=5
-HOMEPAGE=https://www.jetbrains.com/go/
+HOMEPAGE=http://www.jetbrains.com/phpstorm/
 KEYWORDS=~x86 ~amd64
 RESTRICT=strip mirror
 SLOT=0
-SRC_URI=https://download.jetbrains.com/go/goland-193.4697.5.tar.gz
+SRC_URI=https://download.jetbrains.com/webide/PhpStorm-193.5662.16.tar.gz
 _eclasses_=eutils	33ef77a15337022e05342d2c772a7a5a	multilib	1d91b03d42ab6308b5f4f6b598ed110e	portability	2b88d3ecc35035a3b8ab628b49cafb0e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	user	00484e1be1aac73e24fca1c99557a7d6
-_md5_=9a54c802e984208393621ebbcdf633ca
+_md5_=c2d8dd03bb99f251e19eeb1269be3914
