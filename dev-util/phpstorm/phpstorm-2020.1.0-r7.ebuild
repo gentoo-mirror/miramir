@@ -1,7 +1,7 @@
 EAPI=5
 inherit eutils
 
-EAP_VERSION='201.4515.32'
+EAP_VERSION='201.6668.78'
 #MY_PV='2017.3'
 
 HOMEPAGE="http://www.jetbrains.com/phpstorm/"
