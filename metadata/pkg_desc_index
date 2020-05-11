@@ -4,11 +4,11 @@ app-text/coolreader 3.2.9.1 3.2.21.1: CoolReader - reader of eBook files (fb2,ep
 dev-java/java-config 2.2.0-r5: Java environment configuration query tool
 dev-python/lazy-object-proxy 1.4.3: A fast and thorough lazy object proxy
 dev-util/datagrip 2019.3.1 2019.3.2 2019.3.3 2020.1.0: Your Swiss Army Knife for Databases and SQL from JetBrains
-dev-util/goland 2019.3.3 2020.1.0_rc4 2020.1.0 2020.1.1: GoLand is a cross-platform IDE built specially for Go developers
+dev-util/goland 2019.3.3 2020.1.0_rc4 2020.1.0 2020.1.1 2020.1.2: GoLand is a cross-platform IDE built specially for Go developers
 dev-util/phpstorm 2019.3.2 2020.1.0-r7: PhpStorm
 x11-misc/arandr 0.1.10-r2: Another XRandR GUI
 x11-misc/autorandr 1.8 1.8.1 1.9: Automatically select a display configuration based on connected devices
 x11-misc/gsimplecal 2.1: A lightweight calendar designed for tint2
 x11-misc/gxkb 0.7.8 0.8.0 0.8.1: X11 keyboard indicator and switcher
 x11-misc/yd-tools 1.10.6-r2 1.11.0-r1: Panel indicator (GUI) for YandexDisk CLI client
-x11-terms/kitty 0.17.1 0.17.2 0.17.3: A modern, hackable, featureful, OpenGL-based terminal emulator
+x11-terms/kitty 0.17.1 0.17.2 0.17.3 0.17.4: A modern, hackable, featureful, OpenGL-based terminal emulator
