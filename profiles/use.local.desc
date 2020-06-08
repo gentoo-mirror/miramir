@@ -3,6 +3,10 @@
 # * generated automatically using pmaint *
 
 app-text/coolreader:wxwidgets - Use x11-libs/wxGTK instead of Qt5
+sys-auth/polkit:consolekit - Use sys-auth/consolekit for session tracking
+sys-auth/polkit:duktape - Use dev-lang/duktape instead of dev-lang/spidermonkey
+sys-auth/polkit:elogind - Use sys-auth/elogind for session tracking
+sys-auth/polkit:systemd - Use sys-apps/systemd for session tracking
 x11-misc/autorandr:pm-utils - 
 x11-misc/autorandr:systemd - 
 x11-misc/autorandr:udev - 
