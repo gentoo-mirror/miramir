@@ -1,4 +1,4 @@
-app-editors/visual-studio-code 1.41.1 1.43.2 1.44.2 1.45.0 1.45.1 1.47.3 1.48.2 1.50.1: Multiplatform Visual Studio Code from Microsoft
+app-editors/visual-studio-code 1.50.1 1.52.0 1.52.1: Multiplatform Visual Studio Code from Microsoft
 app-misc/grc 1.11-r2: Generic Colouriser beautifies your logfiles or output of commands
 app-text/coolreader 3.2.9.1 3.2.21.1: CoolReader - reader of eBook files (fb2,epub,htm,rtf,txt)
 dev-db/dbeaver-bin 7.1.0: Free universal database tool and SQL client
