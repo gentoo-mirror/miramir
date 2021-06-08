@@ -10,5 +10,5 @@ RDEPEND=app-crypt/libsecret >=media-libs/libpng-1.2.46 >=x11-libs/gtk+-2.24.8-r1
 RESTRICT=mirror
 SLOT=0
 SRC_URI=amd64? ( https://go.microsoft.com/fwlink/?LinkID=620884 -> visual-studio-code-1.52.0-amd64.tar.gz )
-_eclasses_=multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	portability	c10bdc40668533b1faf15b1d89df0303	user-info	a2abd4e2f4c3b9b06d64bf1329359a02	user	26d8ce6329c43cbac965617f1c0627e2	eutils	33ef77a15337022e05342d2c772a7a5a
+_eclasses_=multilib	ebdbaed22e873a5abe6205f41349b479	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	portability	c10bdc40668533b1faf15b1d89df0303	user-info	a2abd4e2f4c3b9b06d64bf1329359a02	user	26d8ce6329c43cbac965617f1c0627e2	eutils	33ef77a15337022e05342d2c772a7a5a
 _md5_=7c06f2a040461de46336a897f3b8145d
