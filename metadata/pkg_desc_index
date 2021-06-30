@@ -1,7 +1,6 @@
-app-editors/visual-studio-code 1.50.1 1.52.0 1.52.1: Multiplatform Visual Studio Code from Microsoft
 dev-util/datagrip 2019.3.1 2019.3.2 2019.3.3 2020.1.0 2020.2.0: Your Swiss Army Knife for Databases and SQL from JetBrains
 dev-util/phpstorm 2019.3.2 2020.1.0-r7: PhpStorm
-sys-auth/polkit 0.116-r3 0.117-r1 0.118-r1 0.119-r1: Policy framework for controlling privileges for system-wide services
+sys-auth/polkit 0.116-r3 0.117-r1 0.118-r1 0.119-r1 0.119-r2: Policy framework for controlling privileges for system-wide services
 x11-misc/arandr 0.1.10-r2 0.1.10-r3: Another XRandR GUI
 x11-misc/autorandr 1.8 1.8.1 1.9 1.11: Automatically select a display configuration based on connected devices
 x11-misc/gsimplecal 2.1 2.2: A lightweight calendar designed for tint2
