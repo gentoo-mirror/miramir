@@ -1,4 +1,3 @@
 sys-auth/polkit 0.116-r3 0.117-r1 0.118-r1 0.119-r1 0.119-r2: Policy framework for controlling privileges for system-wide services
 x11-libs/libvdpau-va-gl 9999: VDPAU driver with VA-API/OpenGL backend.
-x11-misc/autorandr 1.8 1.8.1 1.9 1.11: Automatically select a display configuration based on connected devices
 x11-misc/gsimplecal 2.1 2.2: A lightweight calendar designed for tint2
